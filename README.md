@@ -20,6 +20,18 @@
 
 ### 🚀 Featured Projects
 
+### 🤖 [Deep Research Agent Swarm](https://github.com/piyush24kp/Deep-Research-Agent-Swarm)
+> Full-stack multi-agent research system — orchestrates up to 24 Claude agents in parallel to produce fact-checked, cited reports in real time.
+
+**What it does**
+- Streams a live agent graph (Planner → Orchestrator → Searchers → Critic → Fact-Checker → Synthesizer) via Server-Sent Events
+- 5-dimension trust scoring on every claim (source authority, recency, cross-agreement, fact-checker verdict)
+- Persistent research history panel (localStorage) — re-read any past report with full cost breakdown
+- Per-model and per-agent-type cost tracking with progress-bar visualisations
+
+**Stack:** Python · FastAPI · LangGraph · Anthropic Claude API (Sonnet 4.6 + Haiku 4.5) · Tavily · React · TypeScript · @xyflow/react
+**Resume keywords:** multi-agent orchestration · prompt caching · SSE streaming · LangGraph StateGraph · async Python · React + TypeScript
+
 #### 🔐 [RAGGuardRails](https://github.com/piyush24kp/RAGGuardRails)
 > Production-grade internal chatbot with RAG + RBAC + Guardrails + LangSmith monitoring
 
