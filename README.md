@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Piyush Patil — AI Engineering Lead
 
-🏢 **Wipro** · HP Managed Print Services — leading Gen AI engineering for a 5M-device global platform  
+🏢 **Wipro** · HP Managed Print Services — leading Gen AI engineering.
 🎓 **MSc Machine Learning & AI** — Liverpool John Moores University (LJMU)  
-📍 Indore, India · Open to **remote AI Lead / Gen AI Lead** roles globally  
+📍 Banglore, India · Open to **remote AI Lead / Gen AI Lead** roles globally  
 
 ---
 
